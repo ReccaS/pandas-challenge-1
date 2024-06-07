@@ -6,6 +6,7 @@ Welcome to this module challenge focused on data analysis with Python's Pandas l
 In this challenge, we'll dive into a dataset from a fictional e-commerce company, exploring and analyzing data to address real-world business questions. Your mission will involve identifying top customers, popular product categories, calculating profits, and more. By the end of this task, you'll have a practical understanding of data exploration, transformation, and analysis, preparing you for more complex data scenarios in your future career.
 # Installation
 **Files**
+
 Download the following files from my reposity:
   * pandas-challenge-1
     
