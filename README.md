@@ -8,6 +8,7 @@ In this challenge, we'll dive into a dataset from a fictional e-commerce company
 **Files**
 Download the following files from my reposity:
   * pandas-challenge-1
+    
 **Before You Begin**
 
 Before starting the assignment, be sure to complete the following steps:
